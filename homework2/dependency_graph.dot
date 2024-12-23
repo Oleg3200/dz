@@ -1,0 +1,12 @@
+digraph G {
+rankdir=LR;
+    "763ab86" [label="Initial commit\n+ 763ab86", shape=box]
+    "15bb8d5" [label="commit1\n+ 15bb8d5", shape=box]
+    "763ab86" -> "15bb8d5"
+    "5324bbd" [label="commit2\n+ 5324bbd", shape=box]
+    "15bb8d5" -> "5324bbd"
+    "cf9886d" [label="commit3\n+ cf9886d", shape=box]
+    "5324bbd" -> "cf9886d"
+    "2299184" [label="commit4\n+ 2299184", shape=box]
+    "cf9886d" -> "2299184"
+}

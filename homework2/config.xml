@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <visualizer_path>C:\Users\user\Desktop\Otcheti\Konf\KonfYprav\homework2\plantuml.jar</visualizer_path>
+    <repo_path>C:\Users\user\Desktop\TestRepHw</repo_path>
+    <output_path>C:\Users\user\Desktop\Otcheti\Konf\KonfYprav\homework2\file.puml</output_path>
+</config>

@@ -1,0 +1,12 @@
+digraph G {
+    node [shape=box, style=filled, fillcolor=lightyellow];
+    "763ab86" [label="Initial commit\n763ab86414f001d11383f969e2ac1622ae630d8a"];
+    "15bb8d5" [label="commit1\n15bb8d5eb138d2a03e08f065da959ea1319de79f"];
+    "763ab86" -> "15bb8d5";
+    "5324bbd" [label="commit2\n5324bbde5207691ca36861ca78a2a206e1ccaab2"];
+    "15bb8d5" -> "5324bbd";
+    "cf9886d" [label="commit3\ncf9886d615d0801e99f1c27c77e7db0c77c0bb67"];
+    "5324bbd" -> "cf9886d";
+    "2299184" [label="commit4\n2299184ef2b5c9fdf63c4c14af5c48e8ca083bb4"];
+    "cf9886d" -> "2299184";
+}
