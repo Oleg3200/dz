@@ -1,0 +1,20 @@
+{{!--
+Это пример многострочного комментария
+который должен быть удалён
+--}}
+
+var x = 42;
+var y = |x 3 +|;
+var z = |y 10 mod(5) abs()|;
+
+begin
+    name := John Doe;
+    age := 30;
+    occupation := Engineer;
+end
+
+begin
+    product := Laptop;
+    price := 1000;
+    stock := 15;
+end
